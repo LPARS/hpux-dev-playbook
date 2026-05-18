@@ -10,7 +10,7 @@
   roles:
     - lpars.hpux.integrity_vm
 
-- name: "Configure ntp"
+- name: "Configure NTP"
   hosts: all
   become: true
   roles:
