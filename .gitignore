@@ -1,0 +1,6 @@
+group_vars/
+inventory
+collections/
+roles/
+files/
+templates/
