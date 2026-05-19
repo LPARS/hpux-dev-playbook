@@ -12,3 +12,7 @@ These roles have been developed and verified against the following configuration
 Technically, if you're using a recent enough version of 11i v3, it should work on PA-RISC hosts as well
 given you have Python 2 installed and a modern version of OpenSSH alongside it. If you want to attempt it,
 see [the README in the ansible-9.13-setup directory](ansible-9.13-setup/README.md).
+
+## License
+
+MIT
